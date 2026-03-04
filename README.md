@@ -1,4 +1,4 @@
-# ESP32 Display
+# ESP32 Display - Aurora Borealis Over Mountaintops
 
 ## Description
 
